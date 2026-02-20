@@ -17,15 +17,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 text-sm text-gray-700">
           {/* Address */}
           <div>
-            <h3 className="font-semibold text-black mb-3">Chennai</h3>
-            <p> No. 45/46, 1st Floor, Giri Road,</p>
-
-            <p>T. Nagar, Chennai, Tamil Nadu  – 600 017</p>
+            <h3 className="font-semibold text-black mb-3">Jains Kences Enclave</h3>
+            <p>SM - 2 , No - 15 9th Block Reddy Street,</p>
+            <p>Virugambakkam, Chennai  – 600 092</p>
             <p>India</p>
 
             <div className="mt-4">
               <h4 className="font-semibold text-black">Customer Support</h4>
-              <p>Email: <a href="mailto:business@printongo.com" className="hover:underline">fthardwaredynamics@gmail.com</a></p>
+              <p>Email: <a href="mailto:business@printongo.com" className="hover:underline">hardwaredynamic1@gmail.com</a></p>
               <p>Call: <a href="tel:+919993549992" className=" hover:underline">+91 9993549992</a></p>
               {/* <p>Hours: Mon - Sun | 10:00 AM – 8:00 PM</p> */}
             </div>

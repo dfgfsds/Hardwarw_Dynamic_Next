@@ -11,10 +11,9 @@ export default function PrivacyPolicy() {
 
         <p className="text-gray-600 mb-8">
           <strong>Company Name:</strong> Hardware Dynamic <br />
-          <strong>Address:</strong> No. 45/46, 1st Floor, Giri Road, T. Nagar,
-          Chennai – 600 017 <br />
+          <strong>Address:</strong> SM - 2 , No - 15, 9th Block Reddy Street, Virugambakkam, Chennai  – 600 092 <br />
           <strong>Phone:</strong> 9993549992 <br />
-          <strong>Email:</strong> fthardwaredynamics@gmail.com
+          <strong>Email:</strong> hardwaredynamic1@gmail.com
         </p>
 
         <p className="text-sm text-gray-500 mb-10">
@@ -100,9 +99,9 @@ export default function PrivacyPolicy() {
           </h2>
           <p className="text-gray-600">
             Hardware Dynamic <br />
-            No. 45/46, 1st Floor, Giri Road, T. Nagar, Chennai – 600 017 <br />
+            SM - 2 , No - 15, 9th Block Reddy Street, Virugambakkam, Chennai  – 600 092 <br />
             Phone: 9993549992 <br />
-            Email: fthardwaredynamics@gmail.com
+            Email: hardwaredynamic1@gmail.com
           </p>
         </div>
       </div>
