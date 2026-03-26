@@ -17,10 +17,15 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 text-sm text-gray-700">
           {/* Address */}
           <div>
-            <h3 className="font-semibold text-black mb-3">Jains Kences Enclave</h3>
-            <p>SM - 2 , No - 15 9th Block Reddy Street,</p>
-            <p>Virugambakkam, Chennai  – 600 092</p>
-            <p>India</p>
+            <h3 className="font-semibold text-black mb-3">Experience Centre</h3>
+            <p>No 91, Kothari Nagar 2nd Main Road</p>
+            <p> Ramapuram Chennai,</p>
+            <p>Tamil Nadu 600089.</p>
+
+            <h3 className="font-semibold text-black mb-3">Manufacturing Unit</h3>
+            <p>582b, Iyyapan Nagar Main Road,</p>
+            <p>Ariyathidal Kumbakonam,</p>
+            <p>Thanjavur Tamil Nadu 612401.</p>
 
             <div className="mt-4">
               <h4 className="font-semibold text-black">Customer Support</h4>
@@ -34,6 +39,7 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold text-black mb-3">Our Company</h3>
             <ul className="space-y-2">
+              <li><Link href="/furniture" className="hover:text-red-600">Furniture Solutions</Link></li>
               <li><Link href="#" className="hover:text-red-600">Our Story</Link></li>
               <li><Link href="#" className="hover:text-red-600">Store Location</Link></li>
               <li><Link href="#" className="hover:text-red-600">Our Clients</Link></li>
