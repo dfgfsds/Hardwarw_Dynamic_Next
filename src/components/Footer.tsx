@@ -22,7 +22,7 @@ export default function Footer() {
             <p> Ramapuram Chennai,</p>
             <p>Tamil Nadu 600089.</p>
 
-            <h3 className="font-semibold text-black mb-3">Manufacturing Unit</h3>
+            <h3 className="font-semibold text-black my-3">Manufacturing Unit</h3>
             <p>582b, Iyyapan Nagar Main Road,</p>
             <p>Ariyathidal Kumbakonam,</p>
             <p>Thanjavur Tamil Nadu 612401.</p>
