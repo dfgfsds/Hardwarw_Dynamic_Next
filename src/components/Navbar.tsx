@@ -396,7 +396,7 @@ export default function Navbar() {
                   <ChevronDown size={16} />
                 </button>
               </div>
-
+          
               {/* Mega menu: ALWAYS in DOM, but toggles classes for open/close */}
               <div
                 onMouseEnter={() => {
@@ -442,7 +442,17 @@ export default function Navbar() {
               </div>
             </React.Fragment>
           ))}
+  <button
+                onClick={() => {
 
+                  router.push("/furniture"); 
+
+                }}
+                className="flex items-center gap-1 font-medium cursor-pointer"
+              >
+                Furniture
+               
+              </button>
         </div>
       </div>
 
@@ -490,6 +500,18 @@ export default function Navbar() {
                 )}
               </div>
             ))}
+
+              <button
+                onClick={() => {
+
+                  router.push("/furniture"); 
+
+                }}
+                className="flex items-center gap-1 font-medium cursor-pointer"
+              >
+                Furniture
+               
+              </button>
           </div>
         </div>
       )}
