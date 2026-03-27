@@ -382,7 +382,7 @@ export default function Navbar() {
 
       {/* BOTTOM RED NAV (Desktop) */}
       <div className="bg-red-600 text-white px-6 py-4 relative hidden md:block">
-        <div className="container mx-auto flex justify-center gap-8 py-3 relative">
+        <div className="container mx-auto flex justify-center gap-6 py-3 relative">
           {menuItems.map((item: any, idx: number) => (
             <React.Fragment key={idx}>
               {/* Menu button (attach hover handlers directly) */}
