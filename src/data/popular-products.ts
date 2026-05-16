@@ -142,11 +142,7 @@ const productsData = [
         image: "/images/products/BUILDING STEEL ELEVATION.jpg.jpeg",
         description: "Building elevation designs improve the exterior appearance of structures. Our solutions focus on modern aesthetics and functionality. Using high-quality materials, we ensure durability and visual appeal.\n\nSuitable for residential and commercial buildings, elevation designs add value. Customizable options allow unique designs. Our services deliver quality and creativity."
     },
-    {
-        title: "Building Design",
-        image: "/images/products/BUILDING STEEL ELEVATION 2 .jpeg",
-        description: "Building design services focus on creating functional and attractive structures. Our designs combine innovation and efficiency to meet client requirements. We use modern techniques and materials.\n\nSuitable for various projects, our designs ensure quality and performance. Custom solutions improve usability and aesthetics."
-    },
+
     {
         title: "Banners",
         image: "/images/products/BANNERS .jpg.jpeg",
