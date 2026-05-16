@@ -74,7 +74,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 border-t border-gray-200 pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-600">
           <p>
-            Copyright © 2025 <span className="text-gray-700 font-semibold">Hardware dynamic</span>. All rights
+            Copyright © {new Date().getFullYear()} <Link href="https://ftdigitalsolutions.in/" target="_blank" className="text-gray-700 font-semibold">FT Digital Solutions</Link>. All rights
             reserved.
           </p>
 
