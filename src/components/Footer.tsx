@@ -16,11 +16,17 @@ export default function Footer() {
         {/* Footer Content */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 text-sm text-gray-700">
           {/* Address */}
-          <div>
+          <div >
             <h3 className="font-semibold text-black mb-3">Experience Centre</h3>
-            <p>No 91, Kothari Nagar 2nd Main Road</p>
-            <p> Ramapuram Chennai,</p>
-            <p>Tamil Nadu 600089.</p>
+            <p>First Floor, New No. 46, Old No. 45, Giri Road</p>
+            <p> T Nagar Chennai,</p>
+            <p>Tamil Nadu, 600017.</p>
+
+              <h3 className="font-semibold text-black mb-3 mt-2">Registered office:</h3>
+            <p>9th Block Sm 2 No 15 Jains Keneces Enclave Reddy Street</p>
+            <p> Virugambakkam Chennai,</p>
+            <p>Tamil Nadu, 600093.</p>
+
 
             <h3 className="font-semibold text-black my-3">Manufacturing Unit</h3>
             <p>582b, Iyyapan Nagar Main Road,</p>
@@ -30,7 +36,7 @@ export default function Footer() {
             <div className="mt-4">
               <h4 className="font-semibold text-black">Customer Support</h4>
               <p>Email: <a href="mailto:business@printongo.com" className="hover:underline">hardwaredynamic1@gmail.com</a></p>
-              <p>Call: <a href="tel:+919993549992" className=" hover:underline">+91 9993549992</a></p>
+              <p>Call: <a href="tel:+918989843737" className=" hover:underline">+91 8989843737</a></p>
               {/* <p>Hours: Mon - Sun | 10:00 AM – 8:00 PM</p> */}
             </div>
           </div>

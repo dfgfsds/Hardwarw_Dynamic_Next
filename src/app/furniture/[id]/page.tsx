@@ -68,7 +68,7 @@ export default async function ProductDetail({ params }: Props) {
                         </ul>
                     )}
 
-                    <a href="tel:9993549992">
+                    <a href="tel:8989843737">
                         <button className="mt-6 bg-red-600 font-semibold text-white px-6 py-3 rounded-lg hover:bg-red-800">
                             Enquire Now
                         </button>

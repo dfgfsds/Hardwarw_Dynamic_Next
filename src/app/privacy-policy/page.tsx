@@ -12,7 +12,7 @@ export default function PrivacyPolicy() {
         <p className="text-gray-600 mb-8">
           <strong>Company Name:</strong> Hardware Dynamic <br />
           <strong>Address:</strong> SM - 2 , No - 15, 9th Block Reddy Street, Virugambakkam, Chennai  – 600 092 <br />
-          <strong>Phone:</strong> 9993549992 <br />
+          <strong>Phone:</strong> 8989843737 <br />
           <strong>Email:</strong> hardwaredynamic1@gmail.com
         </p>
 
@@ -100,7 +100,7 @@ export default function PrivacyPolicy() {
           <p className="text-gray-600">
             Hardware Dynamic <br />
             SM - 2 , No - 15, 9th Block Reddy Street, Virugambakkam, Chennai  – 600 092 <br />
-            Phone: 9993549992 <br />
+            Phone: 8989843737 <br />
             Email: hardwaredynamic1@gmail.com
           </p>
         </div>
