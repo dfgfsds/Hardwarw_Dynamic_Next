@@ -67,7 +67,7 @@ export default async function ProductDetail({ params }: Props) {
 
                             <div className="mt-8 pt-8 border-t border-gray-100 flex flex-col sm:flex-row gap-4">
                                 <a
-                                    href="tel:9993549992"
+                                    href="tel:8989843737"
                                     className="inline-flex items-center justify-center px-8 py-4 border border-transparent text-lg font-bold rounded-lg text-white bg-red-600 hover:bg-red-700 transition-all shadow-md hover:shadow-lg transform hover:-translate-y-0.5"
                                 >
                                     Enquire Now
