@@ -15,7 +15,7 @@ const FloatingWhatsApp: React.FC = () => {
     return () => window.removeEventListener('resize', checkMobile);
   }, []);
 
-  const phoneNumber = '919993549992';
+  const phoneNumber = '918989843737';
   const message = encodeURIComponent('Hello! I am interested in your services.');
 
   // Check if on productLandingPage slug route
